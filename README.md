@@ -74,10 +74,10 @@ Base URL: `/api/products`
 
 ## 🛠️ Setup Environment Variables
 
--PGHOST=your-neon-host
--PGDATABASE=your-db-name
--PGUSER=your-db-user
--PGPASSWORD=your-password
--PORT=7001
+- PGHOST=your-neon-host
+- PGDATABASE=your-db-name
+- PGUSER=your-db-user
+- PGPASSWORD=your-password
+- PORT=7001
 
 
