@@ -46,11 +46,11 @@ Base URL: `/api/products`
   "name": "iPhone 15",
   "price": 999.99,
   "image": "https://example.com/image.png"
-};
-
+}
+```
 ---
 
-##  Setup Environment Variables
+## 🛠️ Setup Environment Variables
 
 PGHOST=your-neon-host
 PGDATABASE=your-db-name
