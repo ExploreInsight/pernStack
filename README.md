@@ -25,7 +25,7 @@
 
 ├── .env
 
-└── index.js
+└── server.js
 
 ---
 
