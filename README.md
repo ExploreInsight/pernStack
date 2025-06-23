@@ -7,6 +7,21 @@
 
 ---
 
+📁 Project Structure
+
+/server
+│
+├── controllers/
+│   └── product.controllers.js
+├── routes/
+│   └── product.routes.js
+├── lib/
+│   └── db.js
+├── .env
+└── index.js
+
+---
+
 ## ⚙️ Tech Stack For Server 
 
 - 🚀 **Node.js** & **Express.js** – For building scalable APIs
@@ -52,10 +67,10 @@ Base URL: `/api/products`
 
 ## 🛠️ Setup Environment Variables
 
-PGHOST=your-neon-host
-PGDATABASE=your-db-name
-PGUSER=your-db-user
-PGPASSWORD=your-password
-PORT=7001
+-PGHOST=your-neon-host
+-PGDATABASE=your-db-name
+-PGUSER=your-db-user
+-PGPASSWORD=your-password
+-PORT=7001
 
 
