@@ -7,17 +7,24 @@
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
 
 /server
-│
+
 ├── controllers/
-│   └── product.controllers.js
+
+│ └── product.controllers.js
+
 ├── routes/
-│   └── product.routes.js
+
+│ └── product.routes.js
+
 ├── lib/
-│   └── db.js
+
+│ └── db.js
+
 ├── .env
+
 └── index.js
 
 ---
