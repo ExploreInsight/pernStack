@@ -7,7 +7,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack For Server 
 
 - 🚀 **Node.js** & **Express.js** – For building scalable APIs
 - 🛡️ **Helmet.js** – Adds security headers
@@ -18,7 +18,7 @@
 
 ---
 
-## 📦 Features
+## 📦 Features For Server
 
 - 📄 Create, Read, Update, Delete products
 - 📤 Upload and store product info with image URL
@@ -46,5 +46,16 @@ Base URL: `/api/products`
   "name": "iPhone 15",
   "price": 999.99,
   "image": "https://example.com/image.png"
-}
+};
+
+---
+
+##  Setup Environment Variables
+
+PGHOST=your-neon-host
+PGDATABASE=your-db-name
+PGUSER=your-db-user
+PGPASSWORD=your-password
+PORT=7001
+
 
